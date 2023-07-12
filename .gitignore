@@ -1,0 +1,17 @@
+*.egg-info/
+__pycache__
+build/
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.gitignore
+	auton_survival.egg-info/
+	auton_survival/__pycache__/
+	auton_survival/models/cmhe/__pycache__/
+	auton_survival/models/cph/__pycache__/
+	auton_survival/models/dcm/__pycache__/
+	auton_survival/models/dsm/__pycache__/
+	build/
+	pyproject_st.toml
+	tests/__pycache__/
+

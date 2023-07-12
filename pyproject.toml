@@ -1,0 +1,72 @@
+[project]
+name = "auton_survival"
+version = "1.0.0"
+description = "the auton-survival package"
+license = {file = "LICENSE"}
+readme = "README.md"
+dependencies = [
+    "torch>=1.0.0",
+    "numpy>=1.16.5",
+    "pandas>=1.0.0",
+    "tqdm>=4.0.0",
+    "scikit-learn>=0.18",
+    "torchvision>=0.7.0",
+    "scikit-survival>=0.15.0",
+    "lifelines>=0.26.4",
+]
+
+# [build-system]
+# requires = [
+#     "setuptools",
+#     "wheel",
+# ]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["auton_survival"]
+
+#authors = [
+#  { name="Example Author", email="author@example.com" },
+#]
+#description = "A small example package"
+#readme = "README.md"
+#requires-python = ">=3.7"
+#classifiers = [
+#    "Programming Language :: Python :: 3",
+#    "License :: OSI Approved :: MIT License",
+#    "Operating System :: OS Independent",
+#]
+
+#[project.urls]
+#"Homepage" = "https://github.com/pypa/sampleproject"
+#"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+
+
+
+## [tool.poetry]
+## name = "auton-survival"
+## version = "0.1.0"
+## description = ""
+## authors = ["Chirag Nagpal <chiragn@cs.cmu.edu>"]
+## readme = "README.md"
+## packages = [{include = "auton_survival"}]
+## 
+## [tool.poetry.dependencies]
+## python = "~3.9"
+## torch = "~1"
+## numpy = "~1"
+## pandas = "~1"
+## tqdm = "~4"
+## scikit-learn = "~1"
+## torchvision = "~0"
+## scikit-survival = "~0"
+## lifelines = "~0.26"
+## 
+## [build-system]
+## requires = [
+##     "poetry-core"
+## ]
+## build-backend = "poetry.core.masonry.api"
