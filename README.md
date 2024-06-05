@@ -1,4 +1,4 @@
-# This is a fork for internal use of the [SurvHive](https://github.com/compbiomed-unito/survhive). 
+# This is a fork for internal use of the [SurvHive](https://github.com/compbiomed-unito/survhive) project. 
 
 In general you should use the original.
 
