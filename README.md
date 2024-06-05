@@ -1,4 +1,8 @@
+# This is a fork for internal use of the [SurvHive](https://github.com/compbiomed-unito/survhive). 
 
+In general you should use the original.
+
+---
 <img src="https://visitor-badge.glitch.me/badge?page_id=autonlab.auton-survival" alt="visitor badge"/> &nbsp;&nbsp;&nbsp;
 [![codecov](https://codecov.io/gh/autonlab/DeepSurvivalMachines/branch/master/graph/badge.svg?token=FU1HB5O92D)](https://codecov.io/gh/autonlab/DeepSurvivalMachines)
 &nbsp;&nbsp;&nbsp;
