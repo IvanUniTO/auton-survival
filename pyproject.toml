@@ -1,7 +1,7 @@
 [project]
 name = "auton_survival"
-version = "1.0.1+tosa"
-description = "the auton-survival package"
+version = "1.0.2+hive"
+description = "the auton-survival package (repackaged for survhive)"
 license = {file = "LICENSE"}
 readme = "README.md"
 dependencies = [
